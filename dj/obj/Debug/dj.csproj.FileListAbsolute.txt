@@ -1,0 +1,5 @@
+C:\MyData\MyProjects\DjSolution\dj\bin\dj.dll
+C:\MyData\MyProjects\DjSolution\dj\bin\dj.pdb
+C:\MyData\MyProjects\DjSolution\dj\obj\Debug\ResolveAssemblyReference.cache
+C:\MyData\MyProjects\DjSolution\dj\obj\Debug\dj.dll
+C:\MyData\MyProjects\DjSolution\dj\obj\Debug\dj.pdb
